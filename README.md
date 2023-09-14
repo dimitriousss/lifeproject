@@ -18,3 +18,5 @@ Findings made from query results are noted below:
 - Mean GDP, Life Expectancy and Wellbeing of 2013-2020 were added to the table;
 - Sixth group is showing the quatriles of each measure means. Interesting colnclusions of these results are that only roughly 25% of countries in the world had more than 100 billion GDPs on average, 50% of the worlds life expectancy was in between 72 and 81 years and only 25% of the world's wellbeing ratings were lower than 5/10;
 - Seventh group calculates the Pearson's correlation coeficient between the measures. As said before, Life Expectancy and Wellbeing show low correlation with GDP, it means that both measures are not hardly or not dependant on Domestic Products. Life Expectancy and Wellbeing logicaly have high positive correlation and it generealy is true that to longer life positively affects satisfaction a person gets from it.
+
+@ Dmytro Kvasha
