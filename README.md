@@ -7,6 +7,7 @@ In this project, I use Power Querying and Versitile Data Manipulation provided b
 ### See some query result examples
 ![Best country to live in query result](https://github.com/dimitriousss/nba2k/assets/136066480/4a1aee70-5f0d-4deb-9c67-e278683f965b)
 ![GDP ranking query result](https://github.com/dimitriousss/nba2k/assets/136066480/49ce5509-50c7-415d-894e-431c611b36c5)
+![GDP ranking movement query result](https://github.com/dimitriousss/lifeproject/assets/136066480/38011039-a61b-4bb2-a67b-bd792d92b8f3)
 ![Life expectancy quartiles query result](https://github.com/dimitriousss/nba2k/assets/136066480/8c03c30e-0c1a-4af3-a66c-8e36093690da)
 
 ### Project conclusions:
